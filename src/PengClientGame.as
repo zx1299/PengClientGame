@@ -6,7 +6,7 @@ package
 	{
 		public function PengClientGame()
 		{
-			
+			trace("PengClientGame");		
 		}
 	}
 }
